@@ -1,0 +1,15 @@
+C:\Users\indre\source\repos\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.exe
+C:\Users\indre\source\repos\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.deps.json
+C:\Users\indre\source\repos\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.runtimeconfig.json
+C:\Users\indre\source\repos\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.runtimeconfig.dev.json
+C:\Users\indre\source\repos\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.dll
+C:\Users\indre\source\repos\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\ref\StringsAndArrays.dll
+C:\Users\indre\source\repos\StringsAndArrays\StringsAndArrays\bin\Debug\net5.0\StringsAndArrays.pdb
+C:\Users\indre\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indre\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.AssemblyInfoInputs.cache
+C:\Users\indre\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.AssemblyInfo.cs
+C:\Users\indre\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\indre\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.dll
+C:\Users\indre\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\ref\StringsAndArrays.dll
+C:\Users\indre\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.pdb
+C:\Users\indre\source\repos\StringsAndArrays\StringsAndArrays\obj\Debug\net5.0\StringsAndArrays.genruntimeconfig.cache
